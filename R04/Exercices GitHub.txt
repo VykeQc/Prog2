@@ -1,0 +1,21 @@
+1. Créez ou connectez-vous à votre compte github étudiant.
+
+2. Créez un nouveau repos en ligne et invitez le prof comme collaborateur
+	( nom du compte : pierre-paul-gallant )
+
+3. Clonez ce repos sur votre machine locale.
+
+4. Ajoutez un fichier texte contenant votre nom ainsi que la date d'aujourd'hui dans votre repos local.
+
+5. Ajoutez le fichier modifié à votre prochain commit (git add nom_du_fichier ou stage files dans gitkraken)
+
+6. Faites un commit avec un message significatif ( ex: FCT : premier commit )
+
+7. Faites un push pour envoyer votre commit sur le repos en ligne.
+
+
+8. Joignez-vous à la classe github avec ce lien : https://classroom.github.com/a/D3X-N6BR
+
+9. Copier le repos des exercices du cours 4 sur votre machine locale.
+
+10. commencez les exercices en vous assurant de faire un commit/push après chaque exercices et à toutes les 30 minutes.
