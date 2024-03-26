@@ -31,7 +31,7 @@ class Employe:
 emp1 = Employe("Tremblay","Jonathan",60000)
 print(emp1.nom)
 print(emp1.salaire)
-print(emp1.__exemple())
+#print(emp1.__exemple())
 #emp1.nom = "Joe Tremblay"
 #print(emp1.prenom)
 
